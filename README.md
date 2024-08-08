@@ -1,4 +1,4 @@
 # Demo
 This is my first GitHub Repository.
 <br>
-Author - Aayush Gupta
+Author - Aayush Gupta IITB
